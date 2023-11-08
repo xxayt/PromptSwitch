@@ -8,3 +8,12 @@ Our model was developed and evaluated using the following package dependencies:
 - timm
 - tensorboard
 - pandas
+
+
+
+可直接运行脚本（需修改数据地址等）
+
+```shell
+sh scripts\MSRVTT\run_promptswitch_msrvtt_vit32.sh
+```
+
